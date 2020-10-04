@@ -15,8 +15,8 @@ Learning objectives:
 - Mobile-First approach
 
 
-## Requirements Completed
-🔵 Blue Level (Minimum)
+## Completed Requirements
+🔵 Blue Level
 - Style your page
 - Site should have a header with responsive image/video
 - Site should have a signup form with at least three different input types
