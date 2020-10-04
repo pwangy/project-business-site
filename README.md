@@ -31,5 +31,5 @@ Learning objectives:
 - Add a header and/or a button on top of your video.
 
 
-## See it live
+## View it live
 https://pwangy-biz.netlify.app/
